@@ -1,0 +1,394 @@
+.col-md-7 i{
+    color: #00bcd4
+}
+.col-md-5 i{
+    color: grey;
+    margin: 3px;
+    color: grey;
+    opacity: 0.4
+}
+.col-md-5 span{
+    float: right;
+    font-size: 15px
+}
+.col-md-5 i:hover{
+    opacity: 1;
+    color: #00bcd4
+}
+.col-md-10 i{
+    color: grey;
+    opacity: 0.4
+}
+.col-md-10 i:hover{
+    opacity: 1;
+    color: #00bcd4}
+    .navbar-toggle collapsed span{
+        color:white
+    }
+.dropdown:hover .dropdown-menu{
+        display: block;
+        transition: 0.7s
+    }
+    .navbar{
+        background: #00bcd4;
+        margin-top: 10px;
+        border: none;
+        padding-left: 180px;
+       margin-bottom: 0px;
+       border-radius: 0px
+    }
+    .dropdown a{
+       font-size: 15px;
+       color: white
+    }
+    .dropdown-toggle span{
+        color: white;
+        opacity: 0.5
+    }
+    .dropdown-toggle span:hover{
+        opacity: 1;
+        transition: 0.1s
+    }
+    .dropdown-toggle span:hover ul{
+        display: block
+    }
+    .dropdown-menu li{
+        color: grey;
+        opacity: 0.5;
+       margin-top: 10px
+    }
+
+    .dropdown-menu li:hover{
+        border-left: 2px solid #00bcd4;
+        transition: 0.3s;
+        opacity: 1}
+        .dropdown-toggle span{
+            text-transform: uppercase;
+            font-size: 15px;
+            font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+            
+        }
+        .dropdown-toggle span:hover{
+            background: #00bcd4;
+            opacity: 1.2
+        }
+      
+        .projects{
+            background-image: url('http://all-business.cmsmasters.net/wp-content/uploads/2015/06/Depositphotos_80299672_original.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            height: 500px
+        }
+        .projects1{
+            padding-top: 150px
+        }
+        .projects1 h1{
+            color: white;
+            border-bottom: 2px solid #00bcd4;
+          
+            text-align: center
+        }
+        .projects1 p{
+            color: #00bcd4;
+            
+            width: 100%;
+            text-align: center;
+            padding-top: 10px;
+            font-size: 30px
+        }
+        body{
+            overflow-x:hidden 
+        }
+        .progress1{
+            background: pink;
+            height: 3px
+        }
+        .progress-bar1{
+            background:#ff4081;
+            height: 3px;
+            
+        }
+        .sub2{
+            height: 300px;
+            position: relative;
+            background-size: cover;
+            background-repeat: no-repeat
+        }
+        .carousel2{
+            position: absolute;
+            bottom: 0;
+            background: white;
+            display: none;
+       left: 0
+        }
+        .sub2holder{
+            width: 100%;
+            margin-top: 50px
+        }
+        .subject2{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2016/01/smartwatch-1-1160x831.jpg");
+           
+        }
+        .subject3{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_26628643_original-1160x640.jpg")
+        }
+        .subject4{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_67044065_original-2.jpg")
+        }
+        .subject9{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/06/02-Isometric-iPad-Air-Silver-Mock-up-1.jpg")
+        }
+        .subject7{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2016/01/Depositphotos_57650735_original-1.jpg")
+        }
+        .subject8{
+            background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_75968269_original-1.jpg")
+        }
+        .members h1{
+            color: black;
+            text-align: center;
+            border-bottom: 1px solid #00bcd4
+            }
+            .members{
+                padding-top: 100px
+            }
+            .members p{
+                color: grey;
+                text-align: center;
+                font-size: 15px
+            }
+            .members .col-md-3{
+                height: auto;
+                box-shadow: -10px 12px 10px -15px ;
+               
+               
+                margin-top: 40px;
+               
+            }
+            .membersphoto{
+                width: 100%;
+                height: auto;
+                position: relative;
+              
+            }
+            .membersphoto img{
+               
+                width: 100%;
+              
+               
+              
+            }
+            
+            .membersname{
+                position: absolute;
+                bottom: 0px;
+                left: 0px;
+                color: grey
+               
+            }
+            .infoaboutmembers p{
+                text-align: left;
+                color: grey
+            }
+            .infoaboutmembers{
+                padding-top: 20px
+            }
+            .infoaboutmembers i{
+                color: grey;
+                margin: 3px;
+                
+            }
+            .infoaboutmembers .pull-left:hover{
+                color: #00bcd4
+            }
+            .masters{
+                margin-top: 50px;
+                  background: #00bcd4
+              }
+              .masters .col-md-2{
+              
+                  height: auto;
+                  padding-top: 50px
+              }
+              .masters .col-md-2 img{
+                  width: 40%;
+                  height: auto
+              }
+               .masters .col-md-10{
+                   padding-top: 30px;
+                   color: white
+               }
+               .counter span{
+                font-size: 60px;
+                color: #00bcd4
+            }
+            .counter{
+                margin-top: 100px;
+                font-weight: normal
+            }
+            .counter .col-md-2{
+                margin: 10px
+            }
+            .counter h3{
+                color: white
+            }
+            .counter1{
+                background: black;
+                min-height: 300px
+            }
+            .projects33{
+                background-image: url('http://all-business.cmsmasters.net/wp-content/uploads/2015/06/Depositphotos_38570059_original.jpg');
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
+                background-repeat: no-repeat;
+                height: 700px
+            }
+            .projects3{
+                padding-top: 300px
+            }
+            .projects3 h1{
+                color: #00bcd4;
+               
+              
+                text-align: center
+            }
+            .latest{
+                margin-top: 30px;}
+               .media-carousel 
+               {
+                 margin-bottom: 0;
+                 padding: 0 40px 30px 40px;
+                 margin-top: 30px;
+               }
+               /* Previous button  */
+               .media-carousel .carousel-control.left 
+               {
+                 left: -12px;
+                 background-image: none;
+                 background: none repeat scroll 0 0 #222222;
+                 border: 4px solid #FFFFFF;
+                 border-radius: 23px 23px 23px 23px;
+                 height: 40px;
+                 width : 40px;
+                 margin-top: 30px
+               }
+               /* Next button  */
+               .media-carousel .carousel-control.right 
+               {
+                 right: -12px !important;
+                 background-image: none;
+                 background: none repeat scroll 0 0 #222222;
+                 border: 4px solid #FFFFFF;
+                 border-radius: 23px 23px 23px 23px;
+                 height: 40px;
+                 width : 40px;
+                 margin-top: 30px
+               }
+               /* Changes the position of the indicators */
+               .media-carousel .carousel-indicators 
+               {
+                 right: 50%;
+                 top: auto;
+                 bottom: 0px;
+                 margin-right: -19px;
+               }
+               /* Changes the colour of the indicators */
+               .media-carousel .carousel-indicators li 
+               {
+                 background: #c0c0c0;
+               }
+               .media-carousel .carousel-indicators .active 
+               {
+                 background: #333333;
+               }
+               .media-carousel img
+               {
+                 width: 100%;
+                 height: 200px
+               }
+               .innovation span{
+                   color: grey;
+                 
+                   padding-left: 5px
+               }
+               .innovation button{
+                 
+                   color: #00bcd4;
+                   border: none;
+                   background: white;
+                   font-size: 15px
+               }
+               .grd{
+                   box-shadow: -10px 13px 10px -15px  
+               }
+               .grd div{
+                margin-top: 7%;
+                
+                }
+               .analyst .col-md-3{
+                height: 50px
+            }
+            
+            footer li{
+                margin-top: 15px;
+                padding: 0;
+               color: white;
+                opacity: 0.4
+                
+            }
+           .form-group{
+               border-bottom: 1px solid grey;
+             background: none;
+               color: white;opacity: 0.5
+               
+           }
+           footer h3{
+               color: white;
+               border-bottom: 2px solid #00bcd4
+           }
+           footer{
+               background: black;
+               padding-top: 50px;
+               margin-top: 50px
+           }
+           footer li:hover{
+               opacity: 1;
+               color: white
+           }
+           .inputbtn{
+               
+             
+               color: white;
+            
+             height: 50px;
+             background: none;
+            font-size: 20px;
+             cursor: pointer;
+             width: 200px;
+             text-align: center;
+             padding-top: 10px;
+             opacity: 0.4;
+             border: none
+            
+           }
+           .inputbtn:hover{
+               background: #00bcd4;
+               opacity: 1
+           }
+           .fixed {
+            position: fixed;
+            top:0; left:0;
+            width: 100%;
+        z-index: 4;
+        padding-top: 20px }
+        .sticky{
+            
+            width: 100%;
+            background: white
+        }
+        .lists i{
+            margin: 10px
+        }

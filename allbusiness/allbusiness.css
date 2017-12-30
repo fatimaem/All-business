@@ -1,0 +1,783 @@
+.col-md-7 i{
+    color: #00bcd4
+}
+.col-md-5 i{
+    color: grey;
+    margin: 3px;
+    color: grey;
+    opacity: 0.4
+}
+.col-md-5 span{
+    float: right;
+    font-size: 15px
+}
+.col-md-5 i:hover{
+    opacity: 1;
+    color: #00bcd4
+}
+.col-md-10 i{
+    color: grey;
+    opacity: 0.4
+}
+.col-md-10 i:hover{
+    opacity: 1;
+    color: #00bcd4}
+    .navbar-toggle collapsed span{
+        color:white
+    }
+.dropdown:hover .dropdown-menu{
+        display: block;
+        transition: 0.7s
+    }
+    .navbar{
+        background: #00bcd4;
+        margin-top: 10px;
+        border: none;
+        padding-left: 180px;
+       margin-bottom: 0px;
+       border-radius: 0px
+    }
+    .dropdown a{
+       font-size: 15px;
+       color: white
+    }
+    .dropdown-toggle span{
+        color: white;
+        opacity: 0.5
+    }
+    .dropdown-toggle span:hover{
+        opacity: 1;
+        transition: 0.1s
+    }
+    .dropdown-toggle span:hover ul{
+        display: block
+    }
+    .dropdown-menu li{
+        color: grey;
+        opacity: 0.5;
+       margin-top: 10px
+    }
+
+    .dropdown-menu li:hover{
+        border-left: 2px solid #00bcd4;
+        transition: 0.3s;
+        opacity: 1}
+        .dropdown-toggle span{
+            text-transform: uppercase;
+            font-size: 15px;
+            font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+            
+        }
+        .dropdown-toggle span:hover{
+            background: #00bcd4;
+            opacity: 1.2
+        }
+        
+        .custom{
+            border: none;
+            color: white;
+            background: #00bcd4;
+         
+        }
+   .carousel-countrol{
+       box-shadow: none;
+   }
+.information{
+    padding-top: 90px
+}
+.information .col-md-4{
+  height:200px;
+ 
+}
+.information i{
+    margin: 10px;
+    color: #00bcd4;
+    font-size: 35px
+}
+.custom1{
+    color: #00bcd4;
+    background: white;
+    border: none;
+    text-transform: uppercase
+}
+.search h1{
+    font-size: 20px;
+    color: black
+}
+.search i{
+    color:#00bcd4;
+    font-size: 30px
+}
+.information h1{
+    font-size: 25px
+}
+.balacalar{
+    height: 200px
+}
+#attch{
+    background-image: url('http://all-business.cmsmasters.net/wp-content/uploads/2015/06/Depositphotos_57651053_original-9.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-top: 300px;
+}
+.status{
+  
+    height: auto
+    
+}
+.text-center{
+    margin-top: -150px
+}
+.status .col-md-2{
+    margin: 50px;
+    background: white
+}
+.stat{
+width: 50%;
+
+margin-left: -50px;
+margin-top: 30px;
+
+    height: 130px;
+    background-color: #00bcd4
+
+
+
+}
+
+.status span{
+    font-size: 20px;
+    padding-top: 10px;
+    color: #00bcd4;
+}
+.status .spn{
+padding-bottom:-20px;
+color: grey
+}
+.projects{
+height: 400px;
+width: 100%;
+background:black;
+
+padding-top: 130px;
+
+
+}
+.projects1 h1{
+    color: white;
+    border-bottom: 2px solid #00bcd4;
+    width: 200px;
+    margin:0 auto
+}
+.projects1 p{
+    color: grey;
+    
+    width: 100%;
+    text-align: center;
+    padding-top: 10px
+}
+.fixed {
+    position: fixed;
+    top:0; left:0;
+    width: 100%;
+z-index: 4;
+padding-top: 20px }
+.sticky{
+    
+    width: 100%;
+    background: white
+}
+.tabs{
+    height: auto;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 15px
+   
+    
+}
+.tabs div{
+    margin: 5px
+}
+.tabs span{
+    color: #212121;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    outline: none;background: transparent;
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;line-height: 20px;font-weight: 500;
+    font-style: normal;
+}
+.tab{
+    box-shadow: 0px 12px 10px -15px #111;   
+}
+.content{
+    height: auto;
+    padding-top: 20px
+}
+.tabs:first-child{
+    border-bottom: 2px solid #00bcd4
+}
+.subject{
+    height: 70%;
+    width: 100%;
+    position: relative
+    
+}
+.sub{
+    height: 280px;
+  
+    margin: 20px;
+    box-shadow: -10px 12px 10px -15px ;
+       
+}
+.subject img{
+    height: 100%;
+   
+}
+.tabs span:hover{
+    color: #00bcd4
+
+}
+.brand{
+display: none
+}
+.busy{
+    display: none
+}
+.color{
+    display: none
+}
+.materials{
+    display: none
+}
+.subject i{
+    position: absolute;
+    top: 50%;
+   left: 50%;
+
+
+}
+.subject:hover .subject i{
+    display: block
+}
+.info .col-md-4{
+    height: 250px;
+   
+    padding-top: 30px
+}
+.info{
+    padding-top: 50px;
+    height: auto;
+  
+    width: 100%
+}
+.info .col-md-4:first-child{
+    background: #00bcd4
+}
+.info h1, .info p{
+    color: white
+}
+.butn1{
+   
+    border: none;
+    width: 120px;
+    height: auto;
+    font-size: 20px;
+  
+    color: white
+}
+
+   
+
+.iki {
+    position: relative;
+    overflow: hidden;
+    height: auto
+}
+
+.iki img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+}
+.iki h1, .iki p, .iki .butn1{
+    color: white;
+    
+    position: relative;
+    z-index: 2;
+}
+.uc{
+    background: black
+}
+body{
+ overflow-x: hidden
+}
+.latest{
+ margin-top: 30px;}
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+}
+/* Previous button  */
+.media-carousel .carousel-control.left 
+{
+  left: -12px;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 30px
+}
+/* Next button  */
+.media-carousel .carousel-control.right 
+{
+  right: -12px !important;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 30px
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+.media-carousel img
+{
+  width: 100%;
+  height: 200px
+}
+.grd div{
+margin-top: 7%;
+
+}
+.innovation span{
+    color: grey;
+    
+    padding-left: 5px
+}
+.innovation button{
+    
+    color: #00bcd4;
+    border: none;
+    background: white;
+    font-size: 15px
+}
+.grd{
+    box-shadow: -10px 13px 10px -15px ;
+    height: auto;
+ 
+}
+.hediyye{
+    background-image: url('http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_96269234_original.jpg');
+    background-attachment: fixed;
+    background-position: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-top: 10%
+}
+.hediyye .col-md-12{
+  text-align: center;
+  color: white
+}
+
+.progress{
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    background: none;
+    margin: 0 auto;
+    box-shadow: none;
+    position: relative;
+}
+.progress:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.progress > span{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+.progress .progress-left{
+    left: 0;
+}
+.progress .progress-bar{
+    width: 100%;
+    height: 100%;
+    background: none;
+    border-width: 1px;
+    border-style: solid;
+    position: absolute;
+    top: 0;
+}
+.progress .progress-left .progress-bar{
+    left: 100%;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-left: 0;
+    -webkit-transform-origin: center left;
+    transform-origin: center left;
+}
+.progress .progress-right{
+    right: 0;
+}
+.progress .progress-right .progress-bar{
+    left: -100%;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-right: 0;
+    -webkit-transform-origin: center right;
+    transform-origin: center right;
+    animation: loading-1 1.8s linear forwards;
+}
+.progress .progress-value{
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    background:none;
+    font-size: 24px;
+    color: #fff;
+    line-height: 135px;
+    text-align: center;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.progress.blue .progress-bar{
+border-color: #00bcd4
+}
+.progress.green .progress-bar{
+    border-color: #00bcd4
+    }
+.progress.blue .progress-left .progress-bar{
+    animation: loading-2 1.5s linear forwards 1.8s;
+}
+
+.progress.yellow .progress-left .progress-bar{
+    animation: loading-3 1s linear forwards 1.8s;
+}
+
+.progress.pink .progress-left .progress-bar{
+    animation: loading-4 0.4s linear forwards 1.8s;
+}
+
+.progress.green .progress-left .progress-bar{
+    animation: loading-5 1.2s linear forwards 1.8s;
+}
+@keyframes loading-1{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+@keyframes loading-2{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(144deg);
+        transform: rotate(144deg);
+    }
+}
+@keyframes loading-3{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+}
+@keyframes loading-4{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(36deg);
+        transform: rotate(36deg);
+    }
+}
+@keyframes loading-5{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(355deg);
+        transform: rotate(355deg);
+    }
+}
+@media only screen and (max-width: 990px){
+    .progress{ margin-bottom: 20px; }
+}
+.hediyye .col-md-2{
+    margin: 15px
+}
+.members h1{
+color: black;
+text-align: center;
+border-bottom: 1px solid #00bcd4
+}
+.members{
+    padding-top: 100px
+}
+.members p{
+    color: grey;
+    text-align: center;
+    font-size: 15px
+}
+.members .col-md-4{
+    height: auto;
+    box-shadow: -10px 12px 10px -15px ;
+   
+   
+    margin-top: 40px;
+   
+}
+.membersphoto{
+    width: 100%;
+    height: auto;
+    position: relative;
+  
+}
+.membersphoto img{
+   
+    width: 100%;
+  
+   
+  
+}
+
+.membersname{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: grey
+   
+}
+.infoaboutmembers p{
+    text-align: left;
+    color: grey
+}
+.infoaboutmembers{
+    padding-top: 20px
+}
+.infoaboutmembers i{
+    color: grey;
+    margin: 3px;
+    
+}
+.infoaboutmembers .pull-left:hover{
+    color: #00bcd4
+}
+.masters{
+  margin-top: 50px;
+    background: #00bcd4
+}
+.masters .col-md-2{
+
+    height: auto;
+    padding-top: 50px
+}
+.masters .col-md-2 img{
+    width: 40%;
+    height: auto
+}
+ .masters .col-md-10{
+     padding-top: 30px;
+     color: white
+ }
+ .counter span{
+     font-size: 60px;
+     color: #00bcd4
+ }
+ .counter{
+     margin-top: 100px;
+     font-weight: normal
+ }
+ .counter .col-md-2{
+     margin: 10px
+ }
+ .counter h3{
+     color: white
+ }
+ .counter1{
+     background: black;
+     min-height: 300px
+ }
+ .prices{
+     padding-top: 70px
+ }
+ .div1{
+    
+     border-bottom: 1px solid grey;
+     font-size: 20px
+ }
+ .div2 span{
+     font-size: 80px;
+     
+ }
+ .div2{
+    border-bottom: 1px solid grey
+ }
+ .divul{
+     color: grey;
+     padding-top: 20px;
+     font-size: 15px
+ }
+ .col-md-3 button{
+     background: #ff4081;
+     color: white;
+     font-size: 20px;
+     border: 1px solid  #ff4081;
+     margin-top: 20px;
+ }
+ .prices .col-md-3{
+      box-shadow: -10px 15px 10px -15px ;
+      margin-top: 50px;
+      height: auto
+ }
+ .progress1{
+     background: pink;
+     height: 3px
+ }
+ .progress-bar1{
+     background:#ff4081;
+     height: 3px;
+     
+ }
+ .statbar{
+     padding-top: 10px
+ }
+ .subject2{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2016/01/smartwatch-1-1160x831.jpg");
+    
+ }
+ .sub2{
+     height: 300px;
+     position: relative;
+     background-size: cover;
+     background-repeat: no-repeat
+ }
+ .carousel2{
+     position: absolute;
+     bottom: 0;
+     background: white;
+     display: none;
+left: 0
+ }
+ .sub2holder{
+     width: 100%;
+     margin-top: 50px
+ }
+ .subject3{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_26628643_original-1160x640.jpg")
+ }
+ .subject4{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_67044065_original-2.jpg")
+ }
+ .subject9{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/06/02-Isometric-iPad-Air-Silver-Mock-up-1.jpg")
+ }
+ .subject7{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2016/01/Depositphotos_57650735_original-1.jpg")
+ }
+ .subject8{
+     background-image: url("http://all-business.cmsmasters.net/wp-content/uploads/2015/03/Depositphotos_75968269_original-1.jpg")
+ }
+ .analyst .col-md-3{
+     height: 50px
+ }
+ .lists i{
+     margin: 10px
+ }
+ footer li{
+     margin-top: 15px;
+     padding: 0;
+    color: white;
+     opacity: 0.4
+     
+ }
+.form-group{
+    border-bottom: 1px solid grey;
+  background: none;
+    color: white;opacity: 0.5
+    
+}
+footer h3{
+    color: white;
+    border-bottom: 2px solid #00bcd4
+}
+.tabs span{
+    cursor: pointer;
+}
+footer{
+    background: black;
+    padding-top: 50px
+}
+footer li:hover{
+    opacity: 1;
+    color: white
+}
+.inputbtn{
+    
+  
+    color: white;
+ 
+  height: 50px;
+  background: none;
+ font-size: 20px;
+  cursor: pointer;
+  width: 200px;
+  text-align: center;
+  padding-top: 10px;
+  opacity: 0.4;
+  border: none
+ 
+}
+.inputbtn:hover{
+    background: #00bcd4;
+    opacity: 1
+}
