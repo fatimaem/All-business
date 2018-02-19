@@ -1,0 +1,11 @@
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Sony\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
